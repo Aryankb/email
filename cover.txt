@@ -1,0 +1,12 @@
+My name is Aryan Kumar Baghel, and I am an aspiring AI/ML engineer with hands-on experience in Python, LLMs, Fine-tuning, and prompt engineering. I am passionate about automating workflows and solving complex problems using AI. I am reaching out to inquire if there are any remote job/internship openings in Norstella that align with my skills and interests.
+
+I am currently pursuing a B.Tech in Data Science & Artificial Intelligence at IIIT Naya Raipur, where I hold a CGPA of 8.0/10. Additionally, I am working as an R&D intern at Samsung Prism, developing an AI-driven workflow for the autonomous creation of agentic AI systems by user prompts. I have experience in the autonomous creation of knowledge graphs in Neo4j from extensive documents and enabling contextual information retrieval through a graph-RAG approach for document Q&A.
+
+I have practical experience with technologies such as Git, Docker, LangGraph, Crew AI, MLOps, PyTorch, TensorFlow, AWS, FastAPI, and Streamlit. My previous projects, including B2C-Aide, Fli-Very, Speed-Vision, and Mass-Mellow, have allowed me to apply my ML expertise and development skills to craft effective solutions. Additionally, I’ve won hackathons such as Hack-a-Sol at IIIT Naya Raipur and was among the top five finalists in the Google Gen AI Hackathon.
+
+I am highly interested in the opportunity to contribute to your team and bring my skills and experience to your organization. I have attached my resume for your review and would love to discuss any open roles that might suit my background.
+
+Thank you for considering my application, and I look forward to any opportunity for further discussion.
+
+Sincerely,
+Aryan Kumar Baghel
